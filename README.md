@@ -16,7 +16,8 @@ i setup the database like these.
 <br>
 
 <b>login page</b>
-<img src = ""></img>
+<img src = "Screenshot_20221019_194420.png"
+></img>
 <br>
 <b>Registration Page</b>
-<img src = ""></img>
+<img src = "Screenshot_20221019_194528.png""></img>
