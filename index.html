@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script
+          src="https://kit.fontawesome.com/64d58efce2.js"
+          crossorigin="anonymous"
+        ></script>
+        <link rel="stylesheet" href="style.css" />
+        <title>University Management System</title>
+      </head>
+      <body>
+        <div class="container" id="#log">
+          <div class="forms-container">
+            <div class="signin-signup">
+              <form action="login.php" method="post" class="sign-in-form">
+                 
+                <div class="uims-logo">
+                  <img  alt="uimslogo" src="cuims.png">
+                 </div>
+
+                <h2 class="title">Log in</h2>
+                <div class="input-field">
+                  <i class="fas fa-user"></i>
+                  <input type="text" placeholder="Username" name="username"/>
+                </div>
+                <div class="input-field">
+                  <i class="fas fa-lock"></i>
+                  <input type="password" placeholder="Password" name="password" />
+                </div>
+                <input type="submit" value="Login" class="btn solid" />           
+                <p class = "social-text" id  = "sign-up-btn">New Student, <b>Register Here</b></p>
+              </form>
+
+
+
+
+          
+              <form action="registration.php" method="post" class="sign-up-form">
+                <div class="uims-logo">
+                  <img  alt="uimslogo" src="cuims.png">
+                 </div>
+                <h2 class="title">Register here</h2>
+                <div class="input-field">
+                  <i class="fas fa-user"></i>
+                  <input type="text" placeholder="Username" name="username" />
+                </div>
+                
+                <div class="input-field">
+                  <i class="fas fa-user"></i>
+                  <input type="text" placeholder="name" name="name" />
+                </div>
+
+                <div class="input-field">
+                  <i class="fas fa-envelope"></i>
+                  <input type="email" placeholder="Email" name="email"/>
+                </div>
+                <div class="input-field">
+                  <i class="fas fa-lock"></i>
+                  <input type="password" placeholder="Password" name="password" />
+                </div>
+                <input type="submit" class="btn" value="Register" />
+                <p class = "social-text" id = "sign-in-btn">Old Student <b>Login here</b></p>
+              </form>
+            </div>
+          </div>
+
+
+
+    
+          <div class="panels-container">
+            <div class="panel left-panel">
+              <div class="content">
+                <h1><ul>Chandigarh University</ul></h1>
+                 <p1>Information Management System <br>
+                      <b>Xenon-Stack_Technical_Task.</b> </p1>
+              </div>
+            </div>
+            <div class="panel right-panel">
+              <div class="content">
+                 <h1><ul>Chandigarh University</ul></h1>
+                 <p1>Information Management System <br><b>New Student Registration Page.</b></br></p1>
+              </div>
+            </div>
+          </div>
+        </div>
+        <script src="app.js"></script>
+      </body>
+    </html>
