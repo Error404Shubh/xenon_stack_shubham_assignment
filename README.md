@@ -6,5 +6,17 @@
 
 
 
+i setup the database like these.
 
-<img src = "">
+<img src = "Screenshot 2022-10-19 193840.png"></img>
+
+
+
+<b> Screenschots of website </b>
+<br>
+
+<b>login page</b>
+<img src = ""></img>
+<br>
+<b>Registration Page</b>
+<img src = ""></img>
