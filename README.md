@@ -19,4 +19,4 @@ i setup the database like these.
 <img src = "Screenshot_20221019_194420.png"></img>
 <br>
 <b>Registration Page</b>
-<img src = "Screenshot_20221019_194528.png""></img>
+<img src = "Screenshot_20221019_194528.png"></img>
